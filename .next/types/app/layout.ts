@@ -1,4 +1,4 @@
-// File: C:\Users\hp\OneDrive\سطح المكتب\reno\src\app\layout.tsx
+// File: C:\Users\hp\OneDrive\سطح المكتب\Reno Assessment\reno\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
